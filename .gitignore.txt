@@ -1,0 +1,12 @@
+# Ignorar pasta de compilação do Maven
+/target/
+
+# Configurações do IntelliJ IDEA
+/.idea/
+
+# Configurações do Eclipse/NetBeans
+.classpath
+.project
+
+# Arquivos de log
+*.log
